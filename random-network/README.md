@@ -1,0 +1,3 @@
+## random-network 
+Random networks analysis, using methods such as Reni, Newman...
+Also brazilian workers commuters network analysis. Categorizing by state and performing some insightful scientific analysis.
